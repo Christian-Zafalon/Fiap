@@ -9,5 +9,5 @@
 
 - Israel da Costa Nunes Neto - rm363886
 
-Luiz Fernando Menegon -  rm361020
+- Luiz Fernando Menegon -  rm361020
 
